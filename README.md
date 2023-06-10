@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning:
   - enough material to get my AWS Cloud Practitioner certification
   - Computer Networking (using Jim Kurose's book and his free lectures, exercises: http://gaia.cs.umass.edu/kurose_ross/lectures.php)
-  - Some more advanced algorithms and data structures on LeetCode (https://leetcode.com/andrejpadilha/).
+  - More advanced algorithms and data structures on LeetCode (https://leetcode.com/andrejpadilha/).
