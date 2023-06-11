@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on:
   - My master's degree: scrapping Linkedin data from a small community and analyzing that data
-  - My daily work at Seazone, where I work as a Data Scientist. I don't do any scrapping there, instead I focus on ETL, Data Analysis and building ML models.
+  - My daily work at Seazone, where I work as a Data Scientist. I focus on ETL, Data Analysis and building ML models.
 
 
 - 🌱 I’m currently learning:
