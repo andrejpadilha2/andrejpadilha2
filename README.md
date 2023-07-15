@@ -1,3 +1,8 @@
+
+[![aws-certified-cloud-practitioner (1)](https://github.com/andrejpadilha2/andrejpadilha2/assets/65241086/74a6e552-5adb-4ee7-8010-405a9c34354d)](https://www.credly.com/badges/b96af9b7-b536-4995-94a5-3e3967c02420/public_url)
+
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
