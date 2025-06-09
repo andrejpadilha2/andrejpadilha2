@@ -6,8 +6,8 @@ Welcome to my humble profile!!
 
 
 - 🔭 I’m currently working on:
-  - My master's degree: scrapping Linkedin data from a small community and analyzing that data
-  - My daily work at Seazone, where I work as a Data Scientist. I focus on ETL, Data Analysis and building ML models.
+  - My daily work at Itaú, where I work as a Fraud Prevention Data Scientist. I focus on building ML models, ETL and data analysis.
+  - Refactoring my master's degree code: scrapping Linkedin data from a small community and analyzing that data
 
 
 - 🌱 I’m currently learning:
